@@ -373,9 +373,9 @@ Potential future improvements include:
 
 ## 👨‍💻 Author
 
-**Md. Ashikur Rahman Rafi**
+**Md. Asikur Rahman **
 
-Aspiring **Data Analyst** focused on SQL, Excel, Python, Power BI, and data-driven problem solving.
+Aspiring **Data Analyst** focused on SQL, Excel, Python, Power BI, and data-driven problem-solving.
 
 ### 🔗 Connect With Me
 
@@ -387,9 +387,5 @@ Aspiring **Data Analyst** focused on SQL, Excel, Python, Power BI, and data-driv
 
 This project is licensed under the **MIT License**.
 
-```
 
-One thing I intentionally did: **I didn't invent specific numerical findings** (like “Category X generated 35% of sales”) because your README should contain results only after we've verified the actual query outputs. Your repo currently has the project structure and SQL work, so this version documents the analysis without pretending we have results we haven't confirmed.
 
-If you paste this into `README.md`, it should give the repo a much more complete **portfolio-project feel**.
-```
